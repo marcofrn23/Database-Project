@@ -1,4 +1,4 @@
-#Database Project
+# Database Project
 
 This Project was made for the course of "Information Systems and Databases' at my university. It is buit as a sample for as small enterprise that sells, installs and mantains security systems, gate automations, and video surveillance systems. The project report is divided into 4 parts:
 1. Requirements
